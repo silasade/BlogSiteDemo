@@ -592,6 +592,9 @@ li{
         margin-left: -35%;
     }
     .sign{
-    width:40%
+        width:40%
+    }
+    main{
+        width:100%;
     }
 }
