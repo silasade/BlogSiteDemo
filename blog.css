@@ -585,10 +585,13 @@ li{
 }
 @media(max-width:361px){
     .third{
-        overflow: visible;
+        overflow: hidden;
     }
     .title2,.title3{
         
         margin-left: -35%;
+}
+    .sign{
+    width:40%
 }
 }
